@@ -1,12 +1,12 @@
-<h1 align="center">
+<p align="center">
     <img src="https://raw.githubusercontent.com/octree-gva/meta/main/octree.svg" width="240" alt="We launch software for
 sustainable societies" /><br /><br />
-</h1>
+</p>
 <h4 align="center">
     <a href="https://octree.ch">Website</a> |
     <a href="https://blog.octree.ch">Blog</a> |
     <a href="https://octree.ch/contact/">Contact</a><br />
-</h4>
+</h4><br /><br />
 
 # meta
 This repository is for templates and scripts used in our open-source projects.
