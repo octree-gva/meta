@@ -1,6 +1,7 @@
 ```
 This file is a template for README.md of Octree instances. 
 ```
+
 <h1 align="center"><img src="https://github.com/octree-gva/meta/blob/main/decidim/static/header.svg?raw=true" alt="Decidim - Octree Participatory democracy on a robust and open source solution"></h1>
 <h4 align="center">
     <a href="https://www.octree.ch">Octree</a> |
