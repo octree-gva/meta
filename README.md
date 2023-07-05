@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/octree-gva/meta/main/octree.svg" width="240" alt="We launch software for
+    <img src="https://raw.githubusercontent.com/octree-gva/meta/main/octree.png" width="240" alt="We launch software for
 sustainable societies" /><br /><br />
 </p>
 <h4 align="center">
